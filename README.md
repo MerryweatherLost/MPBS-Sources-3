@@ -5,3 +5,5 @@
 https://obsproject.com/forum/resources/move.913/
 
 https://obsproject.com/forum/resources/ashmanix-countdown-timer.1610/
+
+https://obsproject.com/forum/resources/waveform.1423/
